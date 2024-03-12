@@ -1,0 +1,49 @@
+body{
+    font font-family:  ;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+header{
+    text-align: center;
+    background-color:rgb(0, 0, 0);
+    padding: 10px 0;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+#p1{
+    background-color: greenyellow;
+    margin:0%;
+    padding: 0;
+}
+#p2{
+    background-color: blueviolet;
+    margin-left: 20;
+    padding: 0;
+}
+#p3{
+    background-color: orange;
+    margin: 0;
+    padding: 0;
+}
+#p4{
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+}
+#p5{
+    background-color: paleturquoise;
+    margin: 0;
+    padding: 0;
+}
+#p6{
+    background-color: rgb(128, 0, 96);
+    margin: 0;
+    padding: 0;
+}
+#p7{
+    background-color: brown;
+    margin: 0;
+    padding: 0;
+}
